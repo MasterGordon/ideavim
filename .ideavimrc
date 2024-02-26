@@ -28,7 +28,7 @@ Plug 'preservim/nerdtree'
 "" -- Map IDE actions to IdeaVim -- https://jb.gg/abva4t
 "" Map \r to the Reformat Code action
 
-set leader= 
+let leadermap = ' '
 
 map K <Action>(ShowHoverInfo)
 nmap <leader>ff <Action>(SearchEverywhere)
