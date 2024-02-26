@@ -1,1 +1,6 @@
 # ideavim
+
+## Plugins
+
+- IdeaVim
+- InlineError
